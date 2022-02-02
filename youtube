@@ -1,0 +1,393 @@
+#include <iostream>
+#include <stdlib.h>
+#include <unistd.h>
+
+int main(void){
+
+	int scelta=-1,gattini,puccioso,stronzaggine,distruzione,pazzia,strano,acidi,memini,dank,spaziale,responsabilita,ytp,canzoni,prank,yeee,domandone;
+
+
+	while(scelta!=0){
+		system("cls");
+		printf("\n\n****MENU*****\n\n1) gattini\n2) no sense\n3) memini\n4) canzoni\n0) Esci\n");
+
+switch(scelta){
+default:
+system("cls");
+printf("che tipo di video preferisci:?");
+printf("\n\n****MENU*****\n\n1) gattini\n2) no sense\n3) memini\n4) canzoni\n0) Esci\n");
+break;
+
+case 1:
+system("cls");
+printf("hai scelto i gattini perfetto che tipo di video di gattini preferisci:?/n");
+printf("\n\n****MENU*****\n\n1) gattini pucciosi\n2) gattini stronzi\n3) gattini memini\n4) gattini sotto acidi\n");
+scanf("%d",&gattini);
+sleep(2);
+system("cls");
+
+if(gattini==1){
+ printf("bravo i gattini pucciosi sono carini e coccolosi :3 \n ");
+ printf("ti senti degno di meritarti così tanta pucciosita:? \n");
+ printf("\n\n****MENU*****\n\n1) certo sono un mastro felino posso avere questo ed altro\n2) non me la merito così tanta pucciosità\n");
+ scanf("%d", &puccioso);
+ 
+ if(puccioso==1){
+ 	printf("oh grande mastro felino guardi cotanta magnificenza");
+ 	sleep(2.5);
+ 	system("start https://www.youtube.com/watch?v=uHKfrz65KSU");
+ }
+if(puccioso==2){
+printf("non abbatterti giovane padawan tu pensi di non meritarti i gattini \n");
+printf("ma i gattini pucciosi accettano ogni persona che ha deciso di seguire la via della pucciosita\n");
+printf("a prescindere dalla purezza del cuore di chi li vuole vedere");
+sleep(13.5);
+system("start https://www.youtube.com/watch?v=uHKfrz65KSU");
+}
+}
+if(gattini==2){
+ printf("ah quindi hai scelto i gattini stronzi \n ");
+ printf("visto che ti piace la gente che si fa male alla paperissima sprint scegli il livello di stronzaggine\n ");
+ printf("\n\n****MENU*****\n\n1) soft\n2) hard\n");
+ scanf("%d", &stronzaggine);
+ 
+ if(stronzaggine==1){
+ 	printf("ah quindi hai scelto soft....\n");
+ 	printf("cos'e ti sei svegliato la mattina con voglia di vedere gatti che aggrediscono in modo soft..\n");
+ 	printf("bah sei strano vabbe chi sono io per giudicare le teste di...eh volevo dire goditi il video");
+ 	sleep(13);
+ 	system("start https://youtu.be/pdJ1YaujkEk");
+ }
+if(stronzaggine==2){
+printf("oh oh oh vedo che oggi qualcuno si è svegliato a pane e cattiveria  \n");
+printf("spero di non incontrarti per strade se no mi butti in mezzo alle macchine\n");
+printf("vabbe goditi il video maruvuagio");
+sleep(7.5);
+system("start https://www.youtube.com/watch?v=o_j6iernQK0");
+}
+}
+if(gattini==3){
+ printf("ah quindi hai scelto i gattini memini \n ");
+ printf("i gattini pucciosi non erano abbastanza per te vero? vabbe scegli il tipo di memini che vuoi\n ");
+ printf("\n\n****MENU*****\n\n1) gatti che fanno robe strane\n2) gattini memini ancestrali\n");
+ scanf("%d", &strano);
+ sleep(2);
+ system("cls");
+ if(strano==1){
+ 	printf("ah quindi sei a un passo dal guardarti i video di mici tenerelli che buttano i bicchieri a terra\n");
+ 	printf("beh se volevi gattini tenerelli te li sceglievi prima\n");
+ 	printf("perchè guarderai principalmente video di gattini autistici");
+ 	sleep(11);
+ 	system("start https://www.youtube.com/watch?v=8ZKeq93Es-M");
+ }
+if(strano==2){
+printf("oh beh vedo che qualcuno si sente degno di cotanta potenza\n");
+printf("preparati perche questi non saranno semplici video in cui un gatto entra in una scatola\n");
+printf("buona fortuna soldato");
+sleep(12);
+system("start https://www.youtube.com/watch?v=nkQ4PvTk49A");
+}
+}
+if(gattini==4){
+ printf("ah quindi hai scelto i gattini sotto acidi i gattini memini non ti bastavano \n ");
+ printf("bene preparati questi non saranno semplici gattini che che si gettano da una sporgenza\n ");
+ printf("per poi sbattere la faccia sul tavolo\n");
+ printf("bene scegli il livello di acidi a cui sei disposto a sopportare\n");
+ printf("eh no non e un test antidroga perche se te lo facessi saresti piu fatto di una casa");
+ printf("\n\n****MENU*****\n\n1) gatti stupidi che sembrano sotto acidi\n2) gattini effettivamente sotto acidi\n");
+ scanf("%d", &acidi);
+ sleep(2);
+ system("cls");
+ if(acidi==1){
+ 	printf("ah ok quindi ti vuoi vedere dei gattini che sembrano te la mattina\n");
+ 	printf("ma tranquillo nessun gatto potra mai eguagliare il livello di stupefacenti di cui sembra che ne abusi la mattina\n");
+ 	printf("percui gioditi il video e sappi che sei il piu speciale di tutti loro messi insieme");
+ 	sleep(14);
+ 	system("start https://www.youtube.com/watch?v=fjdyDwU4W9s");
+ }
+if(acidi==2){
+printf("ok va bene goditi il trip\n");
+sleep(1.5);
+printf("che ti aspettavi che dicessi qualcosa in piu? tanto ogni parola\n");
+printf("e un qualcosa che si intralcia sul tuo cammino di vedere gatti trafatti percui guarda coglione");
+sleep(7);
+system("start https://www.youtube.com/watch?v=5wosC9QLQTM");
+}
+}
+sleep(2);
+system("cls");
+printf("\n\n****MENU*****\n\n1) gattini\n2) no sense\n3) memini\n4) canzoni\n0) Esci\n");
+break;
+
+case 2:
+system("cls");
+printf("hai scelto no sense perfetto si vede che ti annoi a morte e l'unica cosa che ti può divertire sono un mix di cose a caso\n");
+printf("ok quanto ti vuoi distruggere i tuoi neuroni\n");
+printf("\n\n****MENU*****\n\n1) distruggemeli come distruggi le tue ragazze francesi\n2) non troppo voglio semplicemente qualcosa che non mi fa capire un cazzo\n");
+scanf("%d",&distruzione);
+sleep(2);
+system("cls");
+if(distruzione==1){
+ printf("oh vedo che non ci tieni alle tue cellule celebrali\n");
+ printf("te le vuoi proprio distruggere oppure vuoi tenere qualcosina:? \n");
+ printf("\n\n****MENU*****\n\n1) ahahah divertente VOGLIO SPAPPOLARMI LA TESTA COME UN PURE DI PATATE\n2) si ok sono pazzo ma non così tanto\n");
+ scanf("%d", &pazzia);
+ if(pazzia==1){
+ 	printf("ok grande capo oh forse tra un un po'ti dovro chiamare capo speciale");
+ 	sleep(3);
+ 	system("start https://www.youtube.com/watch?v=2BrIPhuUxBQ");
+ }
+ if(pazzia==2){
+ 	printf("oh a quanto pare vuoi soltanto una cosa che ti faccia dire: cosa minchia ho appena visto? \n");
+ 	printf("va bene sarai accontentato");
+ 	sleep(3.5);
+ 	system("start https://youtu.be/Jiupj4PyL4U");
+ }
+}
+
+if(distruzione==2){
+ printf("ah ok stai soltanto cercando qualcosa che ti faccia partire un sorriso perchè non hai un cazzo da fare\n ");
+ printf("NELLA TUA SQUALLIDA VITA DI MERDA\n");
+ printf("va bene e sia");
+ sleep(8);
+ system("start https://youtu.be/6MNavkSGntQ");
+ system("cls");
+}
+system("cls");
+printf("\n\n****MENU*****\n\n1) gattini\n2) no sense\n3) memini\n4) canzoni\n0) Esci\n");
+break;
+
+case 3:
+system("cls");
+printf("ah quindi ha scelto i memini oh grande saggio dell'internet scegli che genere di meme la grazia di più\n");
+printf("\n\n****MENU*****\n\n1) stupiscimi\n2) dank meme\n3) meme spaziali\n4) ytp\n0) Esci\n");
+scanf("%d", &memini);
+sleep(2);
+system("cls");
+if(memini==1){
+ printf("oh vedo che qualcuno e in vena di sorprese oggi beh mi duole dirti che sei stato rick......\n ");
+ printf("ahhhhhhhh pensavi no dai troppo scontanto\n");
+ printf("vabbe mi sembra inutile chiederti che tipo di sopresa vuoi percui te la faccio vedere direttamente");
+sleep(12.5);
+system("start https://www.youtube.com/watch?v=HzE-q37LdUI");
+}
+
+if(memini==2){
+ printf("ah quindi abbiamo un intenditore hai scelto i dank meme\n");
+ printf("visto che sei un buon gustaio scegli il tipo di dank meme che preferisci\n");
+ printf("\n\n****MENU*****\n\n1) easy\n2) bonazza\n");
+ scanf("%d", &dank);
+ 
+ if(dank==1){
+ 	printf("quindi hai scelto easy\n");
+ 	printf("e io che pensavo che fossi uno dei saggi del vasto mondo dell'internet\n");
+ 	printf("evidentemente mi sbagliavo vabbe goditi il tuo merdoso video pero sappiche mi hai deluso\n");
+ 	printf("percui quando lo hai finito mettiti in un angolo a pensare a quello che stai facendo");
+ 	sleep(13);
+ 	system("start https://www.youtube.com/watch?v=29EFVFk---I");
+ 	sleep(2);
+ 	printf("ah e cosi pensi di prendermi per il culo METTITI SUBITO NEL FOTUTTISSIMO ANGOLO SE NO TI VENGO A CERCARE");
+ 	sleep(9);
+ }
+if(dank==2){
+printf("ah un altra scelta da intenditore vedo lei grande saggio si e conquistato la mia fiducia\n");
+printf("bene re di tutti i re si goda la compilation che solo i veri somelier di meme come lei possono godere\n");
+sleep(7.5);
+system("start https://www.youtube.com/watch?v=Bg01FJn3KgA");
+}
+}
+if(memini==3){
+ printf("ah quindi hai scelto i memini spaziali\n ");
+ printf("ti starai chiedendo in che senso spaziali beh lo scoprirai presto ma prima scegli quanto lo vuoi spaziale\n ");
+ printf("\n\n****MENU*****\n\n1) perfezione\n2) trip\n");
+ scanf("%d", &spaziale);
+ sleep(2);
+ system("cls");
+ if(spaziale==1){
+ 	printf("oh giovane incoscente la perfezione ha un prezzo penso che tu lo sappia per cui\n");
+ 	printf("(da leggere con tono velocizzato da pubblicita dei gratta e vinci)\n");
+ 	printf("la ti faccio robe stupide &company si toglie tutte le responsabilità da quello che sta per succedere");
+ 	printf("percui ti assumi la responsabilita di quello che ti sta per succedere?\n");
+ 	 printf("\n\n****MENU*****\n\n1) si\n2) no\n");
+ 	scanf("%d", &responsabilita);
+ 	if(responsabilita==1){
+ 		printf("perfetto AVETE SENTITO AUTORITA HA DETTO DI SI CAZZO");
+		printf("eh...hai sentito qualcosa oh vabbe sti cazzi ormai hai detto di si guardati il video");
+		sleep(12);
+		system("start https://youtu.be/O2AJc4DWYd0");
+	 }
+	 else{
+	 	printf("eh...hai detto qualcosa mi dispiace non riesco a sentirti ooo...ormai parte il video eh vabbe capita stammi bene");
+	 	sleep(5);
+	 	system("start https://youtu.be/O2AJc4DWYd0");
+	 }
+ }
+if(spaziale==2){
+printf("oh beh quindi hai scelto il trip beh preparati a vedere i draghi o forse dovrei dire... lo spazio\n");
+printf("col cazzo che ti faccio scegliere tu volevi il trip e io ti sto dando il trip per eccellenza");
+sleep(10);
+system("start https://www.youtube.com/watch?v=L-b6sO6rHGI");
+}
+}
+if(memini==4){
+ printf("oh quindi il milord ha gusti ben specifici bene allora che tipo di poop preferisci:?\n ");
+ printf("\n\n****MENU*****\n\n1) politica\n2) boh su personaggi famosi a caso\n");
+ scanf("%d", &ytp);
+ sleep(2);
+ system("cls");
+ if(ytp==1){
+ 	printf("ahhhhhhhhhhhhhh ho capito persona sei\n");
+ 	printf("magari il coglioncello vuole anche meme sul tpo di orientamento politico?\n");
+ 	printf("beh fottiti ho un arma segreta contro spargitori  di veleno come te e cioe altro veleno goditi il video stronzo");
+ 	sleep(12);
+ 	system("start https://www.youtube.com/watch?v=2a4VQHkwiO4");
+ }
+if(ytp==2){
+printf("oh yes tu vuoi vedere soltanto vedere tizi famosi a caso dire: adesso sesso\n");
+printf("beh sarai piu o meno accontentato amico mio adesso fatti mostrare un magico mondo\n");
+sleep(8);
+system("start https://www.youtube.com/watch?v=4onpKemRV9U");
+system("cls");
+}
+}
+system("cls");
+printf("\n\n****MENU*****\n\n1) gattini\n2) no sense\n3) memini\n4) canzoni\n0) Esci\n");
+break;
+
+case 4:
+system("cls");
+printf("ah hai scelto canzoni ti avverto la trap non e gia tra le scelte percui fottiti\n");
+printf("che cosa stai dicendo che ognuno ha i suoi gusti?\n");
+printf("vaffanculo decido IO quali sono i gusti buoni e quali i gusti di merda e se non sei d'accordo e perche puzzi di culo\n");
+printf("percui scegli una di queste opzioni e non rompermi i coglioni\n");
+
+printf("\n\n****MENU*****\n\n1) perfezione\n2) va bene forse sono stato un po cattivo puoi scegliere tutti i generi che vuoi\n3) memini\n4) intenditore\n0) Esci\n");
+scanf("%d", &canzoni);
+sleep(2);
+system("cls");
+if(canzoni==1){
+ 	printf("oh giovane incoscente la perfezione ha un prezzo penso che tu lo sappia per cui\n");
+ 	printf("(da leggere con tono velocizzato da pubblicita dei gratta e vinci)\n");
+ 	printf("la ti faccio robe stupide &company si toglie tutte le responsabilità da quello che sta per succedere");
+ 	printf("percui ti assumi la responsabilita di quello che ti sta per succedere?\n");
+ 	 printf("\n\n****MENU*****\n\n1) si\n2) no\n");
+ 	scanf("%d", &responsabilita);
+
+ 	if(responsabilita==1){
+ 		printf("perfetto AVETE SENTITO AUTORITA HA DETTO DI SI CAZZO");
+		printf("eh...hai sentito qualcosa oh vabbe sti cazzi ormai hai detto di si guardati il video");
+		sleep(12);
+		system("start https://youtu.be/O2AJc4DWYd0");
+	 }
+	 else{
+	 	printf("eh...hai detto qualcosa mi dispiace non riesco a sentirti ooo...ormai parte il video eh vabbe capita stammi bene");
+	 	sleep(4);
+	 	system("start https://youtu.be/O2AJc4DWYd0");
+	 }
+}
+
+if(canzoni==2){
+ printf("va bene sono stato davvero tanto cattivo con te\n");
+ printf("devo imparare a sopportare gli altri e i propri gusti musicali percui sei libero di scegliere\n");
+ printf("\n\n****MENU*****\n\n1) rock\n2) metal\n3) rap\n4) pop\n5) punk\n6) elettronica\n7) jazz\n8) classica\n9) trap\n");
+ scanf("%d", &prank);
+ 
+ if(prank!=0){
+ 	printf("perfetto sono sicuro che adorerai la canzone che ho scelto per te\n");
+ 	sleep(3);
+ 	system("start https://www.youtube.com/watch?v=JUiFBHyoRZU");
+ 	sleep(30);
+ 	printf("?\n");
+ 	printf("che strano ti ha mandato a un video con uno schermo nero\n");
+ 	printf("aspetta ci sarà stato un errore adesso dovrebbe andare meglio\n");
+ 	system("start https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+ 	sleep(20);
+ 	printf("ah pensavi davvero di avere la possibilita di scegliere\n");
+ 	printf("brutto coglione decido IO cosa mettere fottesega dei tuoi gusti\n");
+ 	printf("e io dico che QUELLA e l'unica canzone che gli stronzi come te possono ascoltare");
+ 	sleep(17);
+  }
+}
+if(canzoni==3){
+ printf("ah quindi hai scelto le canzoni memose\n ");
+ printf("beh che tipo di canzoni meme vuoi c'e ne sono un infinita\n ");
+ printf("ne andrebbe della tua sanita mentale capisci\n");
+printf("\n\n****MENU*****\n\n1) cosa cazzo sto vedendo\n2) easy\n3) non e un meme e religione\n4) stuprami le orecchie\n");
+ scanf("%d", &yeee);
+ sleep(2);
+ system("cls");
+ 
+ if(yeee==1){
+ printf("bene visto che vuoi stare in uno stato di cosa minchia vedono i miei occhi\n");
+ printf("ti lascero soltanto in uno stato di confusione e divertimento");
+ sleep(8);
+ system("start https://youtu.be/lpvT-Fciu-4");
+ }
+ 
+if(yeee==2){
+printf("oh quindi vuoi qualcosa di easy va bene palle moscie sarai accontentato\n");
+printf("ma sappi che potevi avere molto di piu");
+sleep(9);
+system("start https://www.youtube.com/watch?v=2Jvvz8n_hZ0");
+}
+
+if(yeee==3){
+	
+	printf("ohh grande saggio vedo che hai capito la sacralita dei meme\n");
+	printf("*e un grande onore per me interagire con te*");
+	printf("ti mostrero una delle tante magiche realta legate a questa leggenda dell'internet\n");
+	printf("percui P R E P A R A T I\n");
+	sleep(12);
+	system("start https://youtu.be/fMCN-b0ic_k");
+	
+}
+
+if(yeee==4){
+	
+	printf("oh vedo che abbiamo un masochista qui\n");
+	printf("beh amico mio non ti stuprerò soltanto le orecchie\n");
+	printf("non ti faro neanche capire un cazzo\n");
+	printf("perche sei un bimbo particolare che merita un video particolare buona visione semicit.")	;
+	sleep(14);
+	system("start https://youtu.be/K0kvlULMBQ8");
+}
+}
+if(canzoni==4){
+ printf("oh ma vedo che lei e un degustatore di meme esperto?\n ");
+ printf("bene per confermare l'autenticità del signore le proporrei una domanda\n");
+ printf("che solo i veri degustatori come lei possono conoscere la risposta\n");
+ printf("quali di questi meme sarebbe piu adatto alla vista di un degustatore esperto:?");
+ printf("\n\n****MENU*****\n\n1) all stars n2) marcelo\n3) gabe\n");
+ scanf("%d", &domandone);
+ sleep(2);
+ system("cls");
+ if(domandone==1){
+ 	printf("messere perdoni il mio dubbio sulla sua autenticita\n");
+ 	printf("non succedera piu\n");
+ 	printf("ora visto che le ho gia chiesto la domanda da intenditori le faro partire\n");
+ 	printf("un contenuto diverso da quello proposto in precedenza\n");
+ 	printf("percui si goda il video e spero che sia gradito dal suo palato fine");
+ 	
+ 	sleep(14);
+ 	system("start https://youtu.be/Rk1MYMPDx3s");
+ }
+if(ytp!=1){
+printf("PENSAVI DI INGANNARMI BRUTTO PEZZO DI MERDA\n");
+printf("TU NON SEI UN INTENDITORE SEI SOLO UN IMPOSTORE DEL CAZZO\n");
+printf("PER QUANTO SIA VALIDA LA QUALITA DEGLI ALTRI MEME UN VERO INTENDITORE SA QUALE E IL PIU RAFFINATO\n");
+printf("PERCUI BRUTTO FIGLO DELLO SCROTO DI TUA MADRE BECCATI QUESTO VIDEO");
+sleep(15);
+system("start https://www.youtube.com/watch?v=z5VrCoh4p0E");
+}
+}
+system("cls");
+printf("\n\n****MENU*****\n\n1) gattini\n2) no sense\n3) memini\n4) canzoni\n0) Esci\n");
+break;
+}//fine switch
+printf("scelta> ");
+scanf("%d",&scelta);
+}//fine while
+
+system("cls");
+return 0;
+}//fine main
